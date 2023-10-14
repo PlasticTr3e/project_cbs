@@ -50,11 +50,11 @@ void daftar_buku_fantasi(){
         harga_5 = 80000;
 
         cout << "==================FANTASI==================" << endl;
-        cout << "1. Harry Potter\t" << harga_1 << endl;
-        cout << "2. Bumi\t" << harga_2 << endl;
-        cout << "3. Hunger Games\t" << harga_3 << endl;
-        cout << "4. Six Of Crows\t" << harga_4 << endl;
-        cout << "5. Ceros dan Batozar\t" << harga_5 << endl;
+        cout << "1. Harry Potter\t\t\t" << harga_1 << endl;
+        cout << "2. Bumi\t\t\t\t" << harga_2 << endl;
+        cout << "3. Hunger Games\t\t\t" << harga_3 << endl;
+        cout << "4. Six Of Crows\t\t\t" << harga_4 << endl;
+        cout << "5. Ceros dan Batozar\t\t" << harga_5 << endl;
         cout << "===========================================" << endl;
         cout << "0. Kembali ke halaman utama" << endl;
         cout << "Pilih buku: ";
@@ -99,13 +99,13 @@ void daftar_buku_politik(){
         harga_4 = 35000;
         harga_5 = 120000;
 
-        cout << "=======================POLITIK======================" << endl;
-        cout << "1. Dasar-Dasar Ilmu Politik\t" << harga_1 << endl;
+        cout << "=======================POLITIK=========================================" << endl;
+        cout << "1. Dasar-Dasar Ilmu Politik\t\t\t\t\t" << harga_1 << endl;
         cout << "2. Sistem Politik Indonesia Menjelajahi Teori Dan Praktik\t" << harga_2 << endl;
-        cout << "3. Buku Politik Pemerintahan Desa di Indonesia\t" << harga_3 << endl;
-        cout << "4. Kekuasaan Politik\t" << harga_4 << endl;
-        cout << "5. Teori - Teori Hubungan International\t" << harga_5 << endl;
-        cout << "===================================================" << endl;
+        cout << "3. Buku Politik Pemerintahan Desa di Indonesia\t\t\t" << harga_3 << endl;
+        cout << "4. Kekuasaan Politik\t\t\t\t\t\t" << harga_4 << endl;
+        cout << "5. Teori - Teori Hubungan International\t\t\t\t" << harga_5 << endl;
+        cout << "=======================================================================" << endl;
         cout << "0.Kembali ke halaman utama" << endl;
         cout << "Pilih Buku: ";
         cin >> input_user;
@@ -150,11 +150,11 @@ void daftar_buku_misteri(){
         harga_5 = 80000;
 
         cout << "====================MISTERI====================" << endl;
-        cout << "1. The Guardians\t" << harga_1 << endl;
-        cout << "2. Sherlock Holmes\t" << harga_2 << endl;
-        cout << "3. Detective Conan\t" << harga_3 << endl;
-        cout << "4. One of Us Is Lying\t" << harga_4 << endl;
-        cout << "5. Pembunuhan Zodiak Tokyo\t" << harga_5 << endl;
+        cout << "1. The Guardians\t\t\t" << harga_1 << endl;
+        cout << "2. Sherlock Holmes\t\t\t" << harga_2 << endl;
+        cout << "3. Detective Conan\t\t\t" << harga_3 << endl;
+        cout << "4. One of Us Is Lying\t\t\t" << harga_4 << endl;
+        cout << "5. Pembunuhan Zodiak Tokyo\t\t" << harga_5 << endl;
         cout << "===============================================" << endl;
         cout << "0. Kembali ke halaman utama" << endl;
         cout << "Pilih buku: ";
@@ -201,11 +201,11 @@ void daftar_buku_horor(){
         harga_5 = 147000;
 
         cout << "=======================HOROR======================" << endl;
-        cout << "1. The Shining\t" << harga_1 << endl;
-        cout << "2. Danur\t" << harga_2 << endl;
-        cout << "3. The Exorcist\t" << harga_3 << endl;
-        cout << "4. Sewu Dino\t" << harga_4 << endl;
-        cout << "5. The Haunting of Hill House\t" << harga_5 << endl;
+        cout << "1. The Shining\t\t\t\t" << harga_1 << endl;
+        cout << "2. Danur\t\t\t\t" << harga_2 << endl;
+        cout << "3. The Exorcist\t\t\t\t" << harga_3 << endl;
+        cout << "4. Sewu Dino\t\t\t\t" << harga_4 << endl;
+        cout << "5. The Haunting of Hill House\t\t" << harga_5 << endl;
         cout << "==================================================" << endl;
         cout << "0.Kembali ke halaman utama" << endl;
         cout << "Pilih buku: ";      
@@ -251,13 +251,13 @@ void daftar_buku_romantis(){
         harga_4 = 100000;
         harga_5 = 120000;
 
-        cout << "=======================ROMANTIS=======================";
+        cout << "=======================ROMANTIS=======================" << endl;
         cout << "1. MetroPop Klasik: Love, Curse & Hocus Pocus\t" << harga_1 << endl;
-        cout << "2. Cinta Dan Perjuangan\t" << harga_2 << endl;
-        cout << "3. Sebuah Usaha Melupakan\t" << harga_3 << endl;
-        cout << "4. The Architecture of love\t" << harga_4 << endl;
-        cout << "5. Cinta Dan Perjuangan\t" << harga_5 << endl;
-        cout << "===================================================" << endl;
+        cout << "2. Cinta Dan Perjuangan\t\t\t\t" << harga_2 << endl;
+        cout << "3. Sebuah Usaha Melupakan\t\t\t" << harga_3 << endl;
+        cout << "4. The Architecture of love\t\t\t" << harga_4 << endl;
+        cout << "5. Cinta Dan Perjuangan\t\t\t\t" << harga_5 << endl;
+        cout << "======================================================" << endl;
         cout << "0.Kembali ke halaman utama" << endl;
         cout << "Pilih buku: ";
         cin >> input_user;
